@@ -6,7 +6,7 @@ metadata:
   namespace: crossplane-system
 spec:
   encryptedData:
-    creds: W2RlZmF1bHRdCmF3c19hY2Nlc3Nfa2V5X2lkID0gQUtJQVVLQUFNNTZUV1FRQ09PV08KYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ID0geGtmSVQ2aFlWT1lJQkl5eVloMDB4L0FGbjBnejJFMk1NT1UwSllpMAoK
+    creds: <secret>
   template:
     data: null
     metadata:
